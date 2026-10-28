@@ -1,0 +1,6 @@
+{
+  "name": "MathQuest",
+  "description": "Бастауыш және орта сынып оқушыларына арналған математикалық білім беретін RPG веб-платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
